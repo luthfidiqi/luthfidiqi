@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi there 👋, I'm Luthfi Thufail Asiddiqi</h1>
 
-## My Stats
+## 🔧 &nbsp;My Stats
 <p>
 <a href="https://github.com/luthfidiqi">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luthfidiqi&show_icons=true&theme=dark" />
