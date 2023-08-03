@@ -22,8 +22,8 @@ I'm Luthfi Thufail Asiddiqi, Fullstack Developer.<br> Currently, building web ap
 # 📊 GitHub Stats:
 <p>
 <a href="https://github.com/luthfidiqi">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfidiqi&theme=dark&hide_border=false" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfidiqi&theme=dark&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfidiqi&theme=dark&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfidiqi&theme=dark&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
